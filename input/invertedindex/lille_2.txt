@@ -1,0 +1,45 @@
+Informatique, systèmes, réseaux, informatique répartie, systèmes d'information, bases de données, génie logiciel, data mining , mathématiques appliquées, probabilités, statistiques, aide à la décision, analyse de données, modélisation et simulation, optimisation, prévision, informatique décisionnelle, ingénierie financière, ...
+
+
+Objectifs
+
+Le département Génie Informatique et Statistique forme des ingénieurs polyvalents du traitement de l'information sous ses aspects informatique et statistique au service des métiers de l'entreprise.
+Les enseignements donnent aux élèves ingénieurs la capacité de pouvoir exploiter, dans des secteurs d'activités variés, des compétences multiples :
+
+    * en tant qu'ingénieur informaticien généraliste maîtrisant les systèmes informatiques et les réseaux, les systèmes d'information et les bases de données, le génie logiciel, le développement des services sur les réseaux, la conduite de projets, ...
+    * en tant qu'ingénieur maîtrisant les méthodes quantitatives et statistiques, d'analyse de données, d'aide à la décision, de modélisation et de simulation, d'optimisation et leurs applications (fiabilité, prévision, contrôle de qualité, finances, ... ),
+    * en tant qu'ingénieur qui possède un bon niveau de connaissance en économie, gestion, finance et qui, soucieux d'ouverture internationale, maîtrise l'anglais et une seconde langue étrangère.
+
+Outre l'enseignement des concepts scientifiques et de la maîtrise des outils utilisés, cette formation attache une importance particulière à l'apprentissage des méthodes (c'est-à-dire des qualités de rigueur, de curiosité, d'inventivité dans une approche scientifique) et au développement de la personnalité (capacités de communication et d'écoute, de travail en équipe).
+
+
+Secteur d'activités et débouchés
+
+L'ingénieur en Génie Informatique et Statistique se positionne sur des activités d'ingénierie, transversales à la plupart des secteurs. Le développement de l'informatique et des réseaux est permanent et concerne toutes les entreprises. L'évolution de l'informatique se traduit par des exigences d'interactivité et de communication sans cesse croissantes, d'intégration d'informations de nature variée et une masse de plus en plus considérable d'informations à gérer. L'utilisation omniprésente de l'informatique pour la gestion s'accompagne de besoins d'outils de représentation synthétique des informations, d'estimation et de prévision facilitant les prises de décision. Tout le secteur tertiaire est particulièrement concerné par ces besoins, tout comme les aspects informatiques du secteur secondaire : services aux entreprises (surtout SSII) organismes financiers – assurances - grandes administrations et organismes - distribution, VPC, santé, médecine - gestion informatique des PME/PMI – marketing - transports, logistique - industries, production.
+
+
+Partenariat de recherche
+
+La formation d'ingénieurs Polytech'Lille en Génie Informatique et Statistique offre la possibilité aux élèves ingénieurs de participer à des activités liées à la recherche, au sein de deux laboratoires de recherche de l'Université des Sciences et Technologies de Lille
+
+    * Laboratoire d'Informatique Fondamentale de Lille,
+    * Laboratoire de Probabilités, Statistique et Analyse Numérique.
+
+Ces laboratoires sont associés au CNRS et les enseignants chercheurs de cette formation y effectuent leur activité de recherche. Les élèves ingénieurs peuvent ainsi effectuer des projets sur des sujets en relation avec les thématiques des laboratoires de recherche ou bien effectuer au cours de leur dernière année une préparation à la recherche, en suivant un master en informatique ou mathématiques appliquées.
+
+
+Partenariat Industriel
+
+Les activités prenant la forme d'études, de projets et de stages sont réparties sur les 3 années de la formation.
+
+    * 3ème année : étude bibliographique, projets de programmation, de calcul et de bases de données, stage "découverte de l'entreprise" (un mois pendant l'été),
+    * 4ème année : projets informatique, projet modélisation, stage assistant ingénieur (2 mois),
+    * 5ème année : projet de fin d'études, stage ingénieur (4 mois).
+
+Les projets et stages s'effectuent en relation avec les entreprises, les administrations ou organismes, les laboratoires de recherche, en France ou à l'étranger.
+Les élèves ingénieurs peuvent réaliser une partie ou la totalité de leur troisième année dans des Universités étrangères (principalement en Europe et en Amérique du Nord).
+
+
+
+
+Contenu des enseignements

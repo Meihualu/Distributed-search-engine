@@ -1,0 +1,38 @@
+Applications Mobiles, Applications Réparties, Génie Logiciel, Interface Homme-Machine, Multimédia, Réseaux Informatiques, Synthèses et Traitements d’Images, Systèmes, Systèmes Critiques, Systèmes Embarqués, Télécommunications.
+
+
+Objectifs
+
+Former des ingénieurs en Sciences Informatiques qui possèdent à la fois des connaissances fondamentales et la maîtrise des techniques les plus avancées de ce domaine.
+Préparer les futurs ingénieurs à accéder à des postes de responsabilité. La formation vise donc à inculquer les méthodes de travail nécessaires à la réalisation de logiciels complexes, développer la créativité et le sens de l'initiative, mettre en situation professionnelle chaque étudiant et le rendre autonome.
+
+
+Secteur d'activités et débouchés
+
+Industrie informatique et services informatiques :
+SSII (50 %),
+PMI (30 %),
+Grandes entreprises (20 %).
+
+
+Partenariat de recherche
+
+Les enseignants-chercheurs du département S.I. appartiennent majoritairement à l'Unité Mixte de Recherche I3S du CNRS rassemblant plus de 200 chercheurs dans le domaine de l’Informatique, des Signaux, des Systèmes. Des collaborations étroites lient le département S.I avec le centre INRIA de Sophia-Antipolis et l’UMR CNRS Dieudonné.
+
+Le département S.I assure plusieurs formations de niveau MASTER Recherche accessibles en double cursus pour les élèves de dernière année. Cette offre donne l'opportunité aux étudiants de préparer une thèse de doctorat dans les domaines scientifiques couverts par le département en relation avec les laboratoires de recherche et les centres R&D des entreprises partenaires.
+
+Des collaborations étroites unissent le département S.I. et les industriels de la technopole de Sophia Antipolis, en particulier à travers le pôle de compétitivité "Solutions Communicantes Sécurisées": Air France, Alcatel, Amadeus, France Telecom, HP, IBM, Philips, Texas Instrument, Thalès et de très nombreuses PMI et PME.
+
+
+Partenariat Industriel
+
+Nos partenaires industriels interviennent dans la définition des programmes d’enseignement et participent aux enseignements de l'école. Les stages ou projets permettent aux étudiants de se familiariser progressivement avec le monde de l’entreprise.
+Stages
+
+    * 3ème année : ouvrier ou linguistique, 4 semaines.
+    * 4ème année : en entreprise, 8 semaines.
+    * 5ème année : stage de fin d'étude de 6 mois dans une entreprise ou un laboratoire de recherche.
+
+Les stages sont obligatoires. Ils permettent aux élèves de mettre en pratique les compétences acquises pour répondre aux besoins des entreprises. Ils apportent une connaissance du milieu professionnel. Bien souvent, ils sont un véritable tremplin à l'embauche.
+Projets
+Les projets tutorés sont présents tout au long de la scolarité. D'une durée courte en 3ème année : 2 projets d'une semaine portant sur la réalisation d'un logiciel complet, leur durée s'allonge progressivement : 2 projets de trois semaines en 4ème année. Celui de 5ème année, 4 mois à temps partiel a pour particularité de pouvoir être effectué en partenariat avec les enseignants-chercheurs dans le cadre de leurs travaux de recherche en collaboration avec le monde industriel. Certains de ces projets débouchent tout naturellement sur le stage de 5ème année.

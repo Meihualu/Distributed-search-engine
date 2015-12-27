@@ -1,0 +1,59 @@
+Électronique, Automatique Électrotechnique, Microprocesseurs, temps réel Informatique industrielle, Robotique, Électronique de puissance, Régulation de processus industriels, Traitement d'images, Microélectronique numérique, Systèmes embarqués, Conversion d'énergie pour les transports, Compatibilité Electromagnétique.
+
+
+Objectifs
+
+Le Département Génie Électrique forme des ingénieurs capables de spécifier, concevoir et mettre en oeuvre des systèmes électroniques complexes impliquant du matériel et du logiciel et assurant des fonctions de contrôle, commande, traitement d'information ou d'interfaçage. À travers des projets et des activités de synthèse, la formation vise à développer l'autonomie des futurs ingénieurs et l'aptitude à travailler en équipe. Elle leur fait acquérir des compétences permettant d'appréhender et de résoudre des problèmes complexes et de mener à bien des réalisations concrètes.
+
+Les interactions entre le Département Génie Électrique et les autres départements grâce au tronc commun, aux projets, options et modules communs en 3 èmeannée, préparent les étudiants en Génie Électrique à collaborer rapidement et efficacement avec des ingénieurs d'autres champs disciplinaires.
+
+
+Secteur d'activités et débouchés
+
+Les domaines d'activité concernés par la formation sont principalement l'électronique grand public, l'informatique industrielle, l'énergie électrique, l'industrie des semiconducteurs, les systèmes embarqués, l'automatisation des chaînes de production, la robotique, les transports, etc. La répartition est la suivante :
+
+    * Distribution, installation et matériels électriques (13%)
+    * Composants électroniques (7%)
+    * Instrumentation (15%)
+    * Ingénierie (6%)
+    * Transport automobile, aéronautique (8%)
+    * Informatique (12%)
+    * Recherche et développement (20%)
+    * Industrie de transformation (5%)
+    * Divers (14%)
+
+
+
+
+Partenariat de recherche
+
+Les enseignants-chercheurs du Département Génie Électrique effectuent leurs travaux de recherche au sein du Laboratoire des Sciences et Matériaux pour l'Électronique et l'Automatique (LASMEA) de l'Université Blaise Pascal.
+
+L'implication de l'équipe enseignante en matière de recherche sur des thèmes concernant le traitement du signal et de l'image, la reconnaissance des formes, la robotique, les systèmes embarqués et la compatibilité électromagnétique permet de dispenser un enseignement au fait des toutes dernières évolutions dans ces disciplines.
+
+Il est possible de suivre le Master Composants et Systèmes pour le traitement de l'information de l'université Blaise Pascal, en parallèle avec la 5ème année du cursus d'ingénieur.
+
+
+Partenariat Industriel
+
+Stages
+
+    * 3ème année : découverte du monde industriel, 1 à 2 mois en fin d’année.
+    * 4ème année : 2 à 4 mois en fin d’année.
+    * 5ème année : 5 mois en fin d’année. 20 % des stages sont effectués à l'étranger (au Royaume Uni, Chine, USA, Espagne, Pays Bas, ...),
+
+Projets
+Les projets de 4ème et 5ème années permettent aux élèves ingénieurs d'être confrontés à toutes les étapes de la réalisation en équipe, d'un système industriel :
+
+    * Gestion de projet
+    * Définition d'un cahier des charges
+    * Sous-traitance (par des étudiants d'année inférieure)
+    * Conception et réalisation de prototypes
+    * Rédaction de documentation
+
+
+
+
+
+
+Contenu des enseignements

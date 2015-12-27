@@ -1,0 +1,43 @@
+Systèmes électroniques, électronique HF, électronique de puissance, électrotechnique, méthodologie de la programmation, microcontrôleurs, système UNIX, architecture des processeurs, systèmes temps réel, automatique continue, systèmes logiques, régulation industrielle, productique, traitement du signal.
+
+
+Objectifs
+
+Former des ingénieurs opérationnels dans la condutie et la gestion de projets industriels relevant des secteurs de l'électronique et de l'informatique industrielle. A l'issue de leur formation, ces ingénieurs intégrateurs de systèmes ont des compétences en sciences et techniques, en économie et gestion, en langue étrangère (Anglais) et ont une pratique des relations humaines en entreprise.
+Les métiers visés sont : ingénieur en conception, applications, ingénierie, production, maintenance, qualité... dans les industries électriques, électroniques, les télécommunications...
+
+
+Secteur d'activités et débouchés
+
+Grands groupes industriels et PME relevant des secteurs de l'électronique, de la microélectronique, des industries électriques, des télécommunications et des réseaux.
+Entreprises d'accueil des apprentis depuis le début de la formation (2002) : Adaptive MSE, A. Raymond, Arnould, Athys SAS, Bema, Cap Gémini, CEA Grenoble, Cesa, Cybernetix ICAP, Duhamel, Eurotransmissions APM groupe, E2V, France Télécom R&D, Gorgy-Timing, Maatel, MGE UPS Systems, Schneider Electric, Sofradir, Solios Carbone, STMicroelectronics, Teamlog.
+
+
+Partenariat de recherche
+
+Les enseignants chercheurs de la filière effectuent leurs activités de recherche dans des laboratoires universitaires ou des grands organismes (CEA, CNRS...)
+Parmi ces laboratoires figurent :
+LTM : Technologies de la microélectronique
+TIMA : Technique de l'Informatique et de la Microélectronique
+LEMD : Matériaux diélectriques
+LAG : Automatique
+LEG : Electrotechnique
+LIS : Traitement du signal et de l'image
+TIMC : Technique de l'imagerie
+LEPES : Physique et propriété électronique des solides
+
+
+Partenariat Industriel
+
+Le partenariat industriel s'effectue autour d'une relation de co-formation étroite entre école et entreprises.
+Le rythme de l'alternance est : une semaine en école et une semaine en entreprise
+
+    * 3ème année : 23 semaines en entreprise
+    * 4ème année : 23 semaines en entreprise
+    * 5ème année : 28 semaines en entreprise
+
+Objectifs professionnels :
+
+    * 3ème année : travail technique et réalisation (intégration dans l'entreprise, réalisation d'une étude technique)
+    * 4ème année : contribution à la conduite d'un projet (analyse d'un cahier des charges, prise en compte des contraintes techniques, mise en oeuvre des produits matériels ou logiciels)
+    * 5ème année : conduite et gestion de projets (coordination d'une petite équipe, suivi de réalisations, relation avec les clients et fournisseurs,...)

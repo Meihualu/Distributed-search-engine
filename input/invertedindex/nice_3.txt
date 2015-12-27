@@ -1,0 +1,33 @@
+Modélisation, calcul scientifique, optimisation, identification, automatique, commande optimale, traitement et synthèse d'images, tomographie, design optimal, réseaux informatiques, modèles mathématiques en mécanique, en physique et en finance.
+
+
+Objectifs
+
+Former des ingénieurs généralistes, susceptibles de maîtriser la totalité du processus de modélisation, depuis le phénomène réel jusqu'à son traitement numérique en faisant usage des nombreux outils disponibles, en les adaptant à des besoins précis, et en les complétant.
+Une triple compétence est ainsi poursuivie : en mathématiques appliquées, en informatique et dans les disciplines d'application.
+L'accent est mis sur le développement des capacités de raisonnement et de conceptualisation, ainsi que de l'initiative et de la créativité.
+La mise en situation professionnelle permet d'acquérir le sens de l'entreprise et de le pratiquer.
+
+
+Secteur d'activités et débouchés
+
+À côté des entreprises des secteurs traditionnels (aéronautique, espace, automobile, bureaux de calcul scientifique), les PME apprécient de plus en plus ces profils d'ingénieurs capables de formaliser rapidement des problèmes variés de production et/ou d'organisation, et d'y apporter des solutions satisfaisantes en prenant appui sur les outils disponibles tout en les adaptant.
+
+
+Partenariat de recherche
+
+Les enseignants-chercheurs du Département MA appartiennent essentiellement aux laboratoires J.-A. Dieudonné» (mathématiques) et I3S (informatiques et signaux et systèmes), les deux laboratoires étant des Unités Mixtes de Recherche du CNRS et de l'Université de Nice-Sophia Antipodes. En outre, plusieurs intervenants dans la formation appartiennent à l'INRIA, à l'INLN (UMR du CNRS) ou à l'Ecole des Mines de Paris.
+
+
+Partenariat Industriel
+
+Nos partenaires industriels interviennent dans la définition des programmes d'enseignement et participent à leur mise en oeuvre au sein de l'école. Les stages et projets permettent aux élèves de se familiariser progressivement avec le monde de l'entreprise.
+Stages
+
+    * 3ème année : ouvrier ou linguistique, 4 semaines.
+    * 4ème année : en entreprise, 8 semaines.
+    * 5ème année : stage de fin d'étude de 6 mois dans une entreprise ou un laboratoire de recherche.
+
+Les stages sont obligatoires. Ils permettent aux élèves de mettre en pratique les compétences acquises pour répondre aux besoins des entreprises. Ils apportent une connaissance du milieu professionnel et constituent bien souvent un tremplin pour l'embauche.
+Projets
+Les projets tutorés sont présents tout au long de la scolarité. D'une durée courte en 3ème année (deux projets d'une semaine portant sur la réalisation d'une application complète), leur durée s'allonge progressivement: deux projets de trois semaines en 4ème année, et un projet de 4 mois en dernière année, qui a la particularité d'être effectué en partenariat avec des enseignants-chercheurs dans le cadre de leurs travaux de recherche en collaboration avec le monde industriel. Certains de ces projets débouchent naturellement sur le stage de fin d'études. 

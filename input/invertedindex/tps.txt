@@ -1,0 +1,7 @@
+Comme annoncé Music Choice est revenu sur TPS depuis le 1er avril:
+- Le nombre de canaux ne change pas, il y a toujours la totalité des 41 canaux.
+- Music Choice est diffusée depuis des transpondeurs du bouquet Cyfra+
+- Sur les terminaux en location, les numéros des canaux ne change pas.
+- Si vous avez votre propre terminal, les canaux sont indiqué comme "Music Choice X" (X correspond à un chiffre de 1 à 7) dans la liste "radios".
+
+Si vous ne trouvez pas les "Music ChoiceX", lancez un scan des fréquences sur Hot-Bird.

@@ -1,0 +1,51 @@
+Aide à la décision, architectures logicielles, bases de données, communication dans l'entreprise, connaissance de l'entreprise, entrepôts de données, environnement socio-économique, gestion de la connaissance, génie logiciel, interfaces homme-machine, multimédia, recherche d'information, réseaux et télécommunications, systèmes d'information et de connaissances.
+
+
+Objectifs
+
+L'objectif de la spécialité  Informatique  est de former des ingénieurs qui auront pour fonction de concevoir, réaliser et mettre en oeuvre des systèmes d'information au sein d'une entreprise et avec ses différents partenaires en s'appuyant sur de nombreuses sources de données dispersées sur des réseaux.
+
+La formation offre trois grandes orientations :
+
+    * l'option Informatique décisionnelle  prépare à la maîtrise des systèmes d'informations, de connaissances et de décisions ;
+    * l'option de 5ème année Réseaux et systèmes prépare à la maîtrise des applications réparties et des systèmes d'exploitation ;
+    * l'option de 5ème année Architectures logicielles prépare à la maîtrise des applications de très grande taille.
+
+
+
+
+Secteur d'activités et débouchés
+
+Les postes les plus spécifiques au domaine de l' Informatique décisionnelle sont :
+
+    * concepteurs de systèmes d'informations, de connaissances et de décision,
+    * concepteurs et administrateurs d'entrepôts de données,
+    * gestionnaires de connaissances dont l'objectif estd'acquérir, mémoriser, diffuser des connaissances.
+
+Les premières fonctions liés à l'option Réseaux et systèmes sont le plus souvent:
+
+    * responsable des systèmes informatiques, des réseaux et de la sécurité dans une PME,
+    * développement des aspects réseaux en lien avec d'autre ingénieurs (bases de données, multimédia...),
+    * ingénieur dans un service d'un équipementier ou d'un opérateur de télécommunications.
+
+L'évolution vers les postes de responsables de la sécurité du système d'information (RSSI) ou de conseil est la plus classique.
+
+Pour les métiers d'Architecte logiciel , les fonctions de prédilection sont le développement logiciel, dans des SSII ou services informatiques d'entreprises. L'évolution vers des postes à responsabilités peut être très rapide grâce aux larges compétences maîtrisées par l'ingénieur Polytech.
+
+
+Partenariat de recherche
+
+Les enseignants-chercheurs du département d'informatique effectuent leurs travaux de recherche au sein des laboratoires CNRS LINA et IRCCyN rattachés à l'université de Nantes.
+
+En 5ème année, les élèves-ingénieurs peuvent préparer, en double cursus, un master de recherche.
+
+
+Partenariat Industriel
+
+Stages
+
+    * 3ème année : stage d'initiation à l'entreprise de 6 à 8 semaines (juillet / août).
+    * 4ème année : stage d'initiation à l'entreprise de 6 semaines à 3 mois (juillet / août).
+    * 5ème année : projet de fin d'études de 5 mois (de février à juin).
+
+Chaque étudiant doit effectuer un séjour à l'étranger pendant son cursus. 

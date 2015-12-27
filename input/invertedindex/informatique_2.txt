@@ -1,0 +1,44 @@
+Détournement de webcam : l'hécatombe
+par Jerome Saiz, le 1/4/2007 à 12:42
+
+
+Dernière trouvaille des pirates, le détournement de webcam fait des ravages parmi les utilisateurs de Mac. Grâce à une vulnérabilité matérielle non corrigée, il est possible de prendre le contrôle de la webcam intégrée aux derniers MacBook Pro.
+[Mise à jour] : Hasard du calendrier, alors que le correctif officiel se fait attendre, le fabricant 3M arrive sur le marché avec une solution aussi originale qu’efficace.
+
+Attaques et arnaques
+Tempête sur la communauté du Mac : les MacBook Pro d’Apple sont victimes d’une vulnérabilité matérielle particulièrement sinistre. Elle permettrait à n’importe qui de prendre à distance le contrôle de la webcam intégrée à l’appareil, même si ce dernier est protégé par un pare-feu personnel.
+
+Une fois la caméra aux mains des pirates, ces derniers peuvent l’utiliser pour écouter les conversations et voir ce qui passe à proximité du Mac. De multiples vidéos coquines capturées à l’insu de leurs acteurs circulent déjà sur Internet, ainsi que de nombreux fichiers audio.
+
+Selon notre confrère spécialisé Vulnerabilite.com, la Fédération Informatique et Libertés – association de protection de la vie privée - devrait diffuser une alerte dans les prochaines heures.
+La faille concerne tous les ordinateurs MacBook Pro d’Apple dotés d’une webcam iSight intégrée fabriquée par l’américain Micron. Son exploitation est extrêmement simple, ce qui la rend encore plus sévère : il suffit que l’ordinateur soit capable d’accéder à Internet pour être vulnérable, et ceci même si aucun port n’est ouvert.
+Le simple envoi de paquets TCP/IP piégés suffit en effet à ce qu’ils soient évalués par le pare-feu. C’est à ce moment que la vulnérabilité peut être exploitée : un dépassement de mémoire tampon au moment du ré-assemblage des paquets dans la pile TCP/IP (attaque par fragmentation) permet de contrôler le chipset de la caméra, dont le micro-code est vulnérable. A partir de cet instant, une connexion TCP directe et indépendante est établie entre le pirate et la webcam, et les jeux sont faits.
+
+Cette vulnérabilité est activement exploitée sur Internet depuis déjà plusieurs jours. Elle est mise en oeuvre depuis des sites web piégés (conçus pour l’occasion ou détournés) ou par des vers : des serveurs et des Macs infectés arrosent des plages entières d’adresses IP dans l’espoir de toucher des MacBook Pro connectés et de provoquer le “buffer overflow” recherché.
+Le pirate est alors prévenu de l’exécution réussie de l’attaque et obtient le “handle” de la connexion ouverte. Il peut alors profiter à loisir des scènes de vie quotidiennes et des conversations autours des Mac piégés. Et cerise sur le gâteau : cette activation de la caméra ne déclenche pas la LED verte qui prévient habituellement que la caméra fonctionne.
+Bien que l’affaire commence à faire parler d’elle à travers les médias spécialistes de la sécurité, Apple se refuse à tout commentaire et aucun correctif officiel n’est en vue. Seul conseil pour l’instant : travaillez dos à un mur, et éteignez votre Mac avant d’aborder des sujets confidentiels au bureau !
+
+La webcam Micron du MacBook Pro
+La webcam intégrée au MacBook Pro, de marque Micron.
+
+[Mise à jour]
+Alors que chez Apple le silence est de rigueur face à cette faille catastrophique, le hasard du calendrier fait qu’une solution s’offre malgré tout aux adeptes du Mac !
+Notre confrère Vulnerabilite.com révèle ainsi que le fabricant 3M, célèbre pour son incontournable Scotch™, s'apprête à commercialiser le Privacy Scotch. Il s’agit de la première véritable incursion du fabricant dans le monde de la sécurité informatique, et force est de constater que pour un coup d’essai, c’est un coup de maître ! Développé par les laboratoires de R&D du chimiste, le Privacy Scotch est spécifiquement destiné aux MacBookPro.
+
+Le Privacy Scotch
+Le Privacy Scotch de 3M, réponse efficace au détournement de webcam
+(photo : 3M, en excluvité pour Vulnerabilite.com)
+
+Dans une interview exclusive, Vulnerabilite.com livre la genèse du produit salvateur : “Nous avons immédiatement identifié le risque majeur posé par l’initiative d’Apple d’intégrer une webcam à ses derniers ordinateurs portables. Nous-mêmes étant clients d’Apple pour nos commerciaux, nous étions inquiets pour la confidentialité de nos données. Nous comprenions que la solution à ce problème de respect de la vie privée ne pouvait pas être logicielle, alors nous avons demandé à notre service R&D de se pencher sur la question. Et aujourd’hui, l’actualité nous donne raison !”, explique à Vulnerabilite.com Andy Fernley, chef de produit chez 3M.
+
+Le Privacy Scotch est doté d’une opacité renforcée spécialement étudiée afin de neutraliser le capteur CCD de la caméra iSight intégrée. Par ailleurs, sa découpe épouse parfaitement le champs de vision du capteur, et couvre également le microphone intégré.
+Le fabricant annonce également, à terme, une version pour Windows destinée aux webcams externes, car elles aussi sont potentiellement vulnérables via le lecteur Flash (voir notre capture ci-dessous).
+
+La webcam Micron du MacBook Pro
+Les webcam externe des PC peuvent aussi être vulnérables.
+
+Commercialisé en grandes surfaces, Fnac et magasins spécialisés, le Privacy Scotch est disponible au prix de 39,95 euros TCC la planche de cinq unités. Voici probablement le prix de la tranquillité !
+
+Info ! Plus d'informations :
+
+    * L'annonce officielle sur le site de 3M et la description détaillée de l'attaque (en français)

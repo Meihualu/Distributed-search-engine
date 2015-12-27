@@ -1,0 +1,37 @@
+Électronique, Microélectronique, Architecture et conception de circuits et systèmes intégrés, Systèmes embarqués, Télécommunications et réseaux, Informatique industrielle, Automatique, Robotique, Traitement du signal et de l'image, Vision, Capteurs et instrumentation.
+
+
+Objectifs
+
+Former des ingénieurs polyvalents ayant des connaissances étendues dans les domaines de l'électronique et des télécommunications.
+Une formation générale de haut niveau, sur trois semestres, leur permet de s'adapter aux contraintes du monde industriel.
+
+Lors des trois derniers semestres, les étudiants se spécialisent dans l'une des options suivantes : Génie des Systèmes Embarqués (GSE), Microélectronique et Instrumentation (MI), Traitement Numérique du Signal (TNS), Télécommunications et Réseaux (TR).
+
+
+Secteur d'activités et débouchés
+
+Les grandes entreprises et PME/PMI de l'électronique, de la micro-électronique et des télécommunications, l'industrie de la carte à puce, du médical, de la domotique, de l'aéronautique, de l'aérospatial, de l'automobile, où nos ingénieurs occupent des postes en R&D.
+
+
+Partenariat de recherche
+
+La formation des élèves-ingénieurs est assurée par des personnels de l’enseignement supérieur, ayant des activités de recherche dans des laboratoires de l'Université de Nice-Sophia Antipolis. Cette association Recherche-Formation offre aux étudiants un accès aux développements les plus récents dans le domaine de la Micro-électronique et des Télécommunications.
+Les élèves-ingénieurs de dernière année ont par ailleurs la possibilité de suivre en double cursus une des options du Master recherche STIC : Systèmes embarqués, Signal et Communications Numériques, Télécommunications RF et Microélectronique. Cette offre donne l'opportunité aux étudiants de préparer une thèse de doctorat dans les domaines scientifiques couverts par le département en relation avec les laboratoires de recherche et les centres R&D des entreprises partenaires.
+Les deux principaux laboratoires de l'UNSA associés au département d'électronique de l'école sont des unités de recherche mixtes du CNRS :
+LEAT: Laboratoire d'Electronique, Antennes et Télécommunications, UMR CNRS 6071
+I3S : Informatique, Signaux et Systèmes de SophiaAntipolis, UMR 6070
+
+
+Partenariat Industriel
+
+Intégrant l’industrie au cœur de son projet pédagogique, la formation des élèves-ingénieurs repose sur un équilibre entre travail individuel et travail en groupe, entre théorie et pratique. L’intervention d’industriels assurant des cours magistraux ou l’encadrement de projets tutorés, facilite la recherche de stage et l’embauche de nos jeunes diplômés. Nos partenaires industriels interviennent également dans la définition des programmes.
+Ce partenariat s’est traduit par l’attribution de prix aux étudiants, remis par des industriels, et par le développement de projets tels que CIM-PACA et le pôle de compétitivité SCS.
+Stages
+
+    * 3ème année : Stage ouvrier, 4 semaines .
+    * 4ème année : Stage technicien,  8 semaines.
+    * 5ème année : Stage de fin d'études, 6 mois.
+
+Projets
+Les projets tutorés sont présents tout au long de la scolarité ; celui de 4ème année, en collaboration avec un industriel, s'effectue en trinôme à raison de 120 heures étudiant. C'est dans ce cadre, que nos étudiants participent au concours national E=M6 et au challenge local "Jeunes Pousses".

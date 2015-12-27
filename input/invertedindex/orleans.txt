@@ -1,0 +1,209 @@
+Orléans
+Spécialité « Electronique Optique - Electronique, Signaux, Images »
+
+
+Enseignements de tronc commun.
+
+
+Enseignement de tronc commun :
+
+Semestre 5
+
+- Communication appliquée (*)
+- Stratégie d'entreprise et stratégie personnelle (*)
+- Statistiques (**)
+
+- Optimisation (**)
+- Informatique (*)
+
+- Conférences de choix de filière 
+
+- Projet de dossier technique (2 semaines)
+
+Semestre 6
+
+- Anglais scientifique (**)
+
+- Atelier de cultures (**)
+
+- Gestion industrielle et financière (*)
+
+- LV2 (**) (optionnelle)
+
+* Module de 56 heures
+
+** Module de 28 heures
+
+
+
+Tronc commun de spécialité.
+
+
+5 modules de 28 heures :
+
+
+- Électronique appliquée
+
+- Visionique et imagerie
+
+- Techniques de filtrage en électronique et optique
+
+- Matériaux pour l’optronique et l’électronique
+
+Au choix :
+
+    * Automatique
+    * Conception optique
+
+
+
+Tronc commun de spécialité, choix de filière.
+
+
+5 modules de 56 heures :
+
+
+- Métrologie-capteurs
+- Sources et mesures optiques
+- Méthodologie objet
+- Électronique analogique
+- Échantillonnage
+
+
+Expérience professionnelle : stage ou emploi
+Découvrir  ou conforter sa connaissance d'un établissement industriel
+
+4 semaines minimum.
+
+
+
+Enseignements de tronc commun.
+
+
+Enseignement de tronc commun :
+
+Semestre 7
+
+- Communication internationale (**)
+
+- Management et gestion de projet (**)
+
+- Métier d'ingénieurs (*)
+
+- LV2 (**) (optionnelle)
+
+Semestre 8
+
+- Anglais de l'entreprise et TOEIC (*)
+
+- LV2 (**) (optionnelle)
+
+* Module de 56 heures
+
+** Module de 28 heures
+
+
+
+Tronc commun de filière.
+
+4 modules de 56 heures et 1 projet de 2 semaines temps plein :
+
+ - Analyse de schémas
+- Méthodes et outils numériques
+- Électronique numérique
+- Traitement numérique du signal
+- Projet micro-contrôleur
+
+
+Tronc commun de filière.
+
+4 modules de 56 heures et 1 projet de 4 semaines temps plein :
+
+- Transmission de signaux
+- Conceptions de cartes
+- Processeurs de traitement du signal
+- Traitement des images
+- Projet systèmes industriels en électronique ou en informatique
+
+
+Expérience professionnelle : stage ou emploi
+Effectuer un travail d'assistant ingénieur en entreprise, laboratoire...
+8 semaines minimum.
+
+
+Enseignements de tronc commun.
+
+
+Enseignement de tronc commun :
+
+Semestre 9
+
+- Interculturalité (**)
+
+- Recrutement et droit du travail (**)
+
+- Management opérationnel (*)
+
+- LV2 (**) (optionnelle)
+
+* Module de 56 heures
+
+** Module de 28 heures
+
+
+
+Tronc commun de filière, enseignements d'option.
+
+5 modules de 56 heures :
+
+- Génie logiciel
+
+
+- Filtrage et codage
+
+
+- Informatique temps réel
+
+- Systèmes électroniques communiquants
+
+Option Systèmes embarqués
+
+- Conception numérique avancée
+
+Option Traitement de l'information
+
+- Visionique
+
+
+Projet et expérience professionnelle de fin d'études
+
+Formation sous forme d'un projet encadré, en relation avec une entreprise, un laboratoire ou interne à l'école.
+
+Elle comprend  une dimension purement scientifique et/ou technologique et, de façon identifiée, les éléments de gestion et de communication relatifs à ce projet
+
+- Gestion opérationnelle de projet (1 semaine temps plein)
+
+- Projet innovation industrielle en systèmes embarqués (7 semaines temps plein)
+
+
+ou
+
+- Projet innovation industrielle en traitement de l’information (7 semaines temps plein)
+
+
+Expérience professionnelle : stage ou emploi
+Effectuer un travail d'ingénieur assistant ou débutant.
+17 semaines minimum
+
+
+Descriptif de la formation
+
+Voir le détail
+
+
+
+Fiche PDF
+
+pdf Télécharger la fiche pdf
+
+page mise à jour le : 05/12/2006
